@@ -4,16 +4,14 @@ My name is Abundance.</br>
 I'm a mobile software developer who also works on backend stuffs using ktor.</br>
 
 
-![About](https://img.shields.io/badge/About-MyCollegeCGPA-grightgreen?labelColor=black)
+![About](https://img.shields.io/badge/About-MyCollegeCGPA-grightgreen?labelColor=black)](mailto:hello@uigitdev.com)
 
  
-My College CGPA is an Android app I'm currently working on , this app basically helps college students to keep records and properly plan their academics,
-and designer community that I launched on January 11, 2019 on Instagram.</br>
-I created the page to share my open source projects and my journey with others.  
+My College CGPA is an Android app I'm currently working on which basically helps college students to keep proper records of their academic performance
+available features:
+-share and view semester requests within other students on the app
 
 I create libraries that make my day-to-day work easier.
-
-If you want to support my work: [![PayPal](https://img.shields.io/badge/PayPal-Donate%20my%20work-yellow?logo=PayPal&logoColor=yellow&labelColor=black)](https://www.paypal.com/donate?hosted_button_id=2JMUZJKJ5TNT4)
 
 Contact me if you have a unique request: [![Email](https://img.shields.io/badge/Email-hello@uigitdev.com-blue?labelColor=black)](mailto:hello@uigitdev.com) [![Linkedin](https://img.shields.io/badge/Linkedin-David%20Toth-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/uigitdev/)
 
