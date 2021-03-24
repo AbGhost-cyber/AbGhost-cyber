@@ -7,8 +7,8 @@ I'm a mobile software developer who also works on backend stuffs using ktor</br>
 ![About](https://img.shields.io/badge/About-MycollegeCGPA-grightgreen?labelColor=black)
 
  
-
-Uigitdev is an Android developer and designer community that I launched on January 11, 2019 on Instagram.</br>
+My College CGPA is an Android app I'm currently working on , this app basically helps college students to keep records and properly plan their academics,
+and designer community that I launched on January 11, 2019 on Instagram.</br>
 I created the page to share my open source projects and my journey with others.  
 
 I create libraries that make my day-to-day work easier.
