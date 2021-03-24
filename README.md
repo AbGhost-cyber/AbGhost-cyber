@@ -9,7 +9,7 @@ I'm a mobile software developer who also works on backend stuffs using ktor.</br
  
 My College CGPA is an Android app I'm currently working on which basically helps college students to keep proper records of their academic performance
 available features:
--share and view semester requests within other students on the app
+</br>share and view semester requests within other students on the app
 
 I create libraries that make my day-to-day work easier.
 
