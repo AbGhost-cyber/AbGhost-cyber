@@ -4,7 +4,7 @@ My name is Abundance.</br>
 I'm a mobile software developer who also works on backend stuffs using ktor.</br>
 
 
-![About](https://img.shields.io/badge/About-MyCollegeCGPA-grightgreen?labelColor=black)](mailto:hello@uigitdev.com)
+[![About](https://img.shields.io/badge/About-MyCollegeCGPA-grightgreen?labelColor=black)](https://play.google.com/store/apps/details?id=com.crushtech.myccgpa)
 
  
 My College CGPA is an Android app I'm currently working on which basically helps college students to keep proper records of their academic performance
