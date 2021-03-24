@@ -4,7 +4,7 @@ My name is Abundance.</br>
 I'm a mobile software developer who also works on backend stuffs using ktor</br>
 
 
-![About]](https://img.shields.io/badge/About-MycollegeCGPA-2a5a77)</br>
+![About](https://img.shields.io/badge/About-MycollegeCGPA-grightgreen?labelColor=black)</br>
 
 ![About](https://img.shields.io/badge/About-uigitdev-grightgreen?labelColor=black)</br>
 
