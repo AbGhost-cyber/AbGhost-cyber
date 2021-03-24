@@ -4,7 +4,7 @@ My name is Abundance.</br>
 I'm a mobile software developer who also works on backend stuffs using ktor.</br>
 
 
-![About](https://img.shields.io/badge/About-MycollegeCGPA-grightgreen?labelColor=black)
+![About](https://img.shields.io/badge/About-MyCollegeCGPA-grightgreen?labelColor=black)
 
  
 My College CGPA is an Android app I'm currently working on , this app basically helps college students to keep records and properly plan their academics,
@@ -21,7 +21,7 @@ Contact me if you have a unique request: [![Email](https://img.shields.io/badge/
 <br/>Google Play: [![Google](https://img.shields.io/badge/Android-My%20Wallet-grightgreen?logo=Android&logoColor=brightgreen&labelColor=black)](https://play.google.com/store/apps/details?id=com.uigitdev.android.mywallet) [![Google](https://img.shields.io/badge/Android-Daily%20Dictionary-grightgreen?logo=Android&logoColor=brightgreen&labelColor=black)](https://play.google.com/store/apps/details?id=com.uigitdev.recwee)
 
 
-</br>Social: [![Instagram](https://img.shields.io/badge/Instagram-Developer%20journey-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/uigitdev/) [![Twitter](https://img.shields.io/badge/Twitter-Let%27s%20tweet%20each%20other-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/uigitdev) [![YouTube](https://img.shields.io/badge/YouTube-Watch%20my%20videos-red?logo=YouTube&logoColor=red&labelColor=black)](https://www.youtube.com/channel/UCJs4WLc8_jk5DhIwMAwoVuw)
+</br>Social: [![Instagram](https://img.shields.io/badge/Instagram-Developer%20journey-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/dremo.dev/) [![Twitter](https://img.shields.io/badge/Twitter-Let%27s%20connect%20on%20twitter-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/dremo.dev) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbGhost-cyber&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
 
