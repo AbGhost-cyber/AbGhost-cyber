@@ -4,7 +4,7 @@ My name is Abundance.</br>
 I'm a mobile software developer who also works on backend stuffs using ktor</br>
 
 
-![About](https://img.shields.io/badge/About-AbGhost-cyber-grightgreen?labelColor=black)</br>
+https://img.shields.io/badge/About%20-MycollegeCGPA-2a5a77</br>
 Uigitdev is an Android developer and designer community that I launched on January 11, 2019 on Instagram.</br>
 I created the page to share my open source projects and my journey with others.  
 
