@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-It's David.</br>
-I deal Android mobile app development and design.</br>
+My name is Abundance.</br>
+I'm a mobile software developer who also works on backend stuffs using ktor</br>
 This is my work and also my hobby.</br>
 
 ![About](https://img.shields.io/badge/About-uigitdev-grightgreen?labelColor=black)</br>
