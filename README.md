@@ -18,7 +18,7 @@ available features:
 <br/> and lot's more
 
 
-Contact me if you have a job offer: [![Email](https://img.shields.io/badge/Email-hello@uigitdev.com-blue?labelColor=black)](mailto:xplendo@gmail.com)
+Contact me if you have a job offer: [![Contact](https://img.shields.io/badge/Email-Email Me-blue?labelColor=black)](mailto:xplendo@gmail.com)
 
 
 <br/>Other Google Play Apps: [![Google](https://img.shields.io/badge/Android-My%20Wallet-grightgreen?logo=Android&logoColor=brightgreen&labelColor=black)](https://play.google.com/store/apps/details?id=com.uigitdev.android.mywallet) [![Google](https://img.shields.io/badge/Android-Daily%20Dictionary-grightgreen?logo=Android&logoColor=brightgreen&labelColor=black)](https://play.google.com/store/apps/details?id=com.uigitdev.recwee)
