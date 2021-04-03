@@ -21,7 +21,7 @@ available features:
 Contact me if you have a job offer: [![Contact](https://img.shields.io/badge/Email-xplendo@gmail.com-orange?labelColor=black)](mailto:xplendo@gmail.com)
 
 
-</br>Social: [![Instagram](https://img.shields.io/badge/Instagram-Developer%20journey-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/dremo.dev/) [![Twitter](https://img.shields.io/badge/Twitter-Let%27s%20connect%20on%20twitter-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/dremo.dev) 
+</br>Social: [![Instagram](https://img.shields.io/badge/Instagram-Developer%20journey-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/dremo.dev/) [![Twitter](https://img.shields.io/badge/Twitter-Send%27s%20me%20a%20message%20on%20twitter-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/dremo.dev) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbGhost-cyber&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
 
