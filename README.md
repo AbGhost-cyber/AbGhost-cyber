@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Abundance.</br>
-I'm a mobile software developer who also works on backend stuffs using ktor.</br>
+I'm a mobile software developer who also works on backend stuffs using ktor and is also in love with kotlin .</br>
 
 
 [![About](https://img.shields.io/badge/About-MyCollegeCGPA-grightgreen?labelColor=black)](https://play.google.com/store/apps/details?id=com.crushtech.myccgpa)
