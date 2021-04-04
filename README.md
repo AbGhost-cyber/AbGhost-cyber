@@ -14,7 +14,7 @@ available features:
 </br>semesters properly displayed with best semester at the top(rated based on GPA)🤗
 </br>view your semsters in a graphical form, download it as well(as PDF)
 </br>access your data on any device by just login in😎
-<br/>share your semesters with friends on the app( don't worry, only the semester can edit it, so it's view only😌
+<br/>share your semesters with friends on the app( don't worry, only the semester's owner can edit it, so it's view only😌
 <br/> and lot's more
 
 
