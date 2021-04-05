@@ -1,7 +1,5 @@
-### Hi there 👋
+### 🐶
 
-My name is Abundance.</br>
-I'm a mobile software developer who also works on backend stuffs using ktor and is also in love with kotlin .</br>
 - 👋 Hi, I’m Abundance
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning typescript,react-native and javascript
