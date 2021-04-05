@@ -2,21 +2,10 @@
 
 My name is Abundance.</br>
 I'm a mobile software developer who also works on backend stuffs using ktor and is also in love with kotlin .</br>
-
-
-[![About](https://img.shields.io/badge/About-MyCollegeCGPA-darkgreen?labelColor=black)](https://play.google.com/store/apps/details?id=com.crushtech.myccgpa)
-
- 
-My College CGPA is an Android app I'm currently working on which basically helps college students to keep proper records of their academic performance
-available features:
-
-</br>login and logout functionality, third parties login enabled as well🤘🏾
-</br>semesters properly displayed with best semester at the top(rated based on GPA)🤗
-</br>view your semsters in a graphical form, download it as well(as PDF)
-</br>access your data on any device by just login in😎
-<br/>share your semesters with friends on the app( don't worry, only the semester's owner can edit it, so it's view only😌
-<br/> and lot's more
-
+- 👋 Hi, I’m Abundance
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning typescript,react-native and javascript
+- 💞️ I’m looking to collaborate on everything mobile 😎
 
 Contact me if you have a job offer: [![Contact](https://img.shields.io/badge/Email-xplendo@gmail.com-orange?labelColor=black)](mailto:xplendo@gmail.com)
 
