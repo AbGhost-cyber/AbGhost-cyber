@@ -7,6 +7,7 @@
 - 💞️  I’m looking to collaborate on everything mobile 😎
 - 🦅  Contact me if you have a job offer: [![Contact](https://img.shields.io/badge/Email-xplendo@gmail.com-orange?labelColor=black)](mailto:xplendo@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=AbGhost-cyber)
 
 </br>Social: [![Instagram](https://img.shields.io/badge/Instagram-Developer%20journey-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/dremo.dev/) [![Twitter](https://img.shields.io/badge/Twitter-Send%20me%20a%20message-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/dremo.dev) 
 
