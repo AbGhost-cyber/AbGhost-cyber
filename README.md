@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbGhost-cyber)
 
-</br>Social: [![Instagram](https://img.shields.io/badge/Instagram-Developer%20journey-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/dremo.dev/) [![Twitter](https://img.shields.io/badge/Twitter-Send%20me%20a%20message-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/dremo.dev) 
+</br>Social: [![Instagram](https://img.shields.io/badge/Instagram-Developer%20journey-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/dremo.dev/) [![Twitter](https://img.shields.io/badge/Twitter-Send%20me%20a%20message-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/abdremo1) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbGhost-cyber&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
 
