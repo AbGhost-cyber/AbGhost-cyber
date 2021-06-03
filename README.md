@@ -6,7 +6,7 @@
 - 🌱  I’m currently learning typescript,react-native and javascript
 - 💞️  I’m looking to collaborate on everything mobile 😎
 - fun fact...i enjoy writing generics
-- 🦅  Contact me if you have a job offer: [![Contact](https://img.shields.io/badge/Email-xplendo@gmail.com-orange?labelColor=black)](mailto:xplendo@gmail.com)
+- 🦅  Contact me if you have a job offer: [![Contact](https://img.shields.io/badge/Email-xplendo@gmail.com-orange?labelColor=yellow)](mailto:xplendo@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbGhost-cyber)
 
