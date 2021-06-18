@@ -13,6 +13,10 @@
 </br>Social: [![Instagram](https://img.shields.io/badge/Instagram-Developer%20journey-blueviolet?logo=Instagram&logoColor=blueviolet&labelColor=black)](https://www.instagram.com/dremo.dev/) [![Twitter](https://img.shields.io/badge/Twitter-Send%20me%20a%20message-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/abdremo1) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbGhost-cyber&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
+<a href="#">
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AbGhost-cyber&hide_border=true&bg_color=101013"
+            alt="Dremo's Github commit streak">
+    </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbGhost-cyber&layout=compact&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
 
