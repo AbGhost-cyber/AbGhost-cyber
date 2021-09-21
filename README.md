@@ -1,4 +1,4 @@
-### 🐶 Hi
+### Android Development and sometimes try hybrid things
 
 
 
