@@ -1,4 +1,4 @@
-### Android Development and sometimes try hybrid things
+### Android Development
 
 
 
